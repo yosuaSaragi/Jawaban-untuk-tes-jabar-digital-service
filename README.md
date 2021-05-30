@@ -1,5 +1,4 @@
-# Jawaban-untuk-tes-jabar-digital-service
-query untuk jabar digital service
+# DE_SQL #1
 
 
 SELECT userid, 
